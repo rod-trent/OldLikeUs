@@ -8,5 +8,15 @@ Welcome to the series repository for the fiction book series: Old Like Us by Rod
 
 * Get the eBook/Kindle version: _coming..._
 
-
 <p align="center"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/smaller.jpg"></center></p>
+
+# PRELUDE
+
+As a prelude to the "Old Like Us" series, here's a Thanksgiving themed short story.
+
+Old Like Us: The Poltergeist Prank https://amzn.to/3Zo9ERQ
+
+<p align="left"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/Small.jpg?raw=true"></left></p>
+
+
+
