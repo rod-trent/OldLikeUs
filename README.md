@@ -1,4 +1,4 @@
-# Old Like Us
+# Old Like Us Series
 
 Welcome to the series repository for the fiction book series: Old Like Us by Rod Trent
 
