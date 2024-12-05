@@ -18,7 +18,7 @@ Thanksgiving 2024 - Old Like Us: The Poltergeist Prank https://amzn.to/3Zo9ERQ
 
 Christmas 2024 - Old Like Us: The Christmas Specter https://amzn.to/3CVoQNC
 
-<p align="left"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/Small.jpg?raw=true"></left></p>
+<p align="left"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/OldShortsSmall.jpg?raw=true"></left></p>
 
 
 
