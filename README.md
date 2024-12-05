@@ -12,9 +12,11 @@ Welcome to the series repository for the fiction book series: Old Like Us by Rod
 
 # PRELUDE
 
-As a prelude to the "Old Like Us" series, here's a Thanksgiving themed short story.
+As a prelude to the "Old Like Us" series, here's a couple holiday themed short stories.
 
-Old Like Us: The Poltergeist Prank https://amzn.to/3Zo9ERQ
+Thanksgiving 2024 - Old Like Us: The Poltergeist Prank https://amzn.to/3Zo9ERQ
+
+Christmas 2024 - Old Like Us: The Christmas Specter https://amzn.to/3CVoQNC
 
 <p align="left"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/Small.jpg?raw=true"></left></p>
 
