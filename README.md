@@ -4,9 +4,11 @@ Welcome to the series repository for the fiction book series: Old Like Us by Rod
 
 * Download a <a href="Free_Chapter/Old Like Us 6 x 9 inch (15.24 x 22.86 cm) First Chapter.pdf" target="_blank">free chapter</a> to get started!
 
-* Get the paperback: _coming..._ 
+* Get the paperback: https://amzn.to/4lH7cz6 
 
-* Get the eBook/Kindle version: _coming..._
+* Get the eBook/Kindle version: https://amzn.to/4js7IQ0 
+
+* Get the audio book: https://amzn.to/4iuAKgz 
 
 <p align="center"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/smaller.jpg"></center></p>
 
