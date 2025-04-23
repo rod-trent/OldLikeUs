@@ -2,13 +2,11 @@
 
 Welcome to the series repository for the fiction book series: Old Like Us by Rod Trent
 
-* Download a <a href="Free_Chapter/Old Like Us 6 x 9 inch (15.24 x 22.86 cm) First Chapter.pdf" target="_blank">free chapter</a> to get started!
+* Download free chapters to get started:
+  *   <a href="Free_Chapter/Old Like Us 6 x 9 inch (15.24 x 22.86 cm) First Chapter.pdf" target="_blank">Old Like Us: The Forgotten Grave Sample Chapter 1</a>
+  *   <a href="Free_Chapter/Old Like Us Darkest Waters Sample Chapter.pdf" target="_blank">Old Like Us: Darkest Waters Sample Chapter 3</a>
 
-* Get the paperback: https://amzn.to/4lH7cz6 
-
-* Get the eBook/Kindle version: https://amzn.to/4js7IQ0 
-
-* Get the audio book: https://amzn.to/4iuAKgz 
+Check out the series page on Amazon for existing eBooks, Audible, and paperbacks: https://amzn.to/3YbK41C 
 
 <p align="center"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/smaller.jpg"></center></p>
 
