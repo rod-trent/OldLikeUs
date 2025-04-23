@@ -18,6 +18,8 @@ As a prelude to the "Old Like Us" series, here's a couple holiday themed short s
 
 * Christmas 2024 - Old Like Us: The Christmas Specter https://amzn.to/3CVoQNC
 
+* New Year's Eve 2024 - Old Like Us: The Spirits of New Year's Eve https://amzn.to/3S0UcGP 
+
 <p align="left"><img src="https://raw.githubusercontent.com/rod-trent/OldLikeUs/refs/heads/main/Images/OldsShortsSmall.jpg"></left></p>
 
 
