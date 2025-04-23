@@ -20,7 +20,7 @@ As a prelude to the "Old Like Us" series, here's a couple holiday themed short s
 
 * New Year's Eve 2024 - Old Like Us: The Spirits of New Year's Eve https://amzn.to/3S0UcGP 
 
-<p align="left"><img src="https://raw.githubusercontent.com/rod-trent/OldLikeUs/refs/heads/main/Images/OldsShortsSmall.jpg"></left></p>
+<p align="left"><img src="https://raw.githubusercontent.com/rod-trent/OldLikeUs/refs/heads/main/Images/oldsholidays.jpg"></left></p>
 
 
 
