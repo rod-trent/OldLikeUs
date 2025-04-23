@@ -8,7 +8,7 @@ Welcome to the series repository for the fiction book series: Old Like Us by Rod
 
 Check out the series page on Amazon for existing eBooks, Audible, and paperbacks: https://amzn.to/3YbK41C 
 
-<p align="center"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/smaller.jpg"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/OldLikeUs/blob/main/Images/smallmainbooks.jpg"></center></p>
 
 # PRELUDE
 
