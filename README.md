@@ -1,6 +1,6 @@
 # Old Like Us Series
 
-Welcome to the series repository for the fiction book series: Old Like Us by Rod Trent
+Welcome to the repository for the fiction book series: Old Like Us by Rod Trent
 
 * Download free chapters to get started:
   *   <a href="Free_Chapter/Old Like Us 6 x 9 inch (15.24 x 22.86 cm) First Chapter.pdf" target="_blank">Old Like Us: The Forgotten Grave Sample Chapter 1</a>
